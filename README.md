@@ -1,6 +1,14 @@
-###### Em desenvolvimento ⚠️
+<!-- ###### Em desenvolvimento ⚠️ -->
 
-<h1 style="font-weight:bold">GitFind</h1>
+<div>
+    <img src="./src/assets/ScreenShot.png" />
+</div>
+
+## 📘 Sobre GitFind 
+
+Este projeto foi criado com o objetivo de consumir a API do GitHub e através dela, buscar e mostrar algumas informações de usuário, como: foto, bio e os repositórios publicados.
+
+<br/>
 
 > Instruções iniciais.
 
@@ -20,14 +28,9 @@ npm install
 npm run start
 ```
 
- ## 📘 Sobre
-
-Este projeto foi criado com o objetivo de consumir a API do GitHub e através dela, buscar e mostrar algumas informações de usuário, como: foto, bio e os repositórios publicados.
-
  ## 💻 Tecnologias utilizadas
 
 * HTML
 * CSS
 * JavaScript
 * ReactJs
-
