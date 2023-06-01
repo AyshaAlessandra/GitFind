@@ -1,6 +1,5 @@
 .conteudo{
 position: relative;
-
 display: flex;
 align-items: center;
 justify-content: center;
@@ -41,4 +40,41 @@ input{
         font-size: 18px;
         padding: 10px;
         cursor: pointer;
+    }
+
+    .perfil{
+        display: flex;
+        margin: 40px 0;
+    }
+
+    .profile{
+        width: 150px;
+        height: 150px;
+        border-radius: 80px;
+        border: 2px solid #E5E5E5;
+        margin-right: 32px;
+    }
+
+    .perfil h3{
+        color: #999999;
+        font-size: 24px;
+        margin: 0;
+    }
+    .perfil span{
+        display: block;
+        color: #999999;
+        font-size: 12px;
+        margin: 0;
+    }
+    .perfil p{
+        color: #999999;
+        font-size: 12px;
+        margin: 20px 0 0 0;
+    }
+
+    .repositorio{
+        font-size: 32px;
+        color: #FFFFFF;
+        margin: 12px 0;
+        text-align: center;
     }
